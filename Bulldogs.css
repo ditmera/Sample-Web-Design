@@ -4,7 +4,7 @@ color: red;
 background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB6aXV5M3U2dnh1b28wdW9tOGV1d2YwZm1scHJ3amI5ZTAyOXUzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsJ8toGzbNvhm3cFm6/giphy.gif);
 background-repeat: no-repeat;
 background-size: 100vw 100vh}
-a:hover {color: yellow;}
+a:hover {color: grey;}
 a:active {color: green;}
 img{display: block;
 display
